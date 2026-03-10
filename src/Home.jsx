@@ -83,8 +83,8 @@ export default function Home() {
     }
 
     return (
-        <div className="min-h-screen bg-gray-900 flex items-center justify-center p-6 text-white">
-            <div className="w-[1000px] bg-gray-800 rounded-3xl p-10 shadow-2xl">
+        <div className="m-0 min-h-screen bg-gray-900 flex items-center justify-center p-6 text-white">
+            <div className="w-[1200px] bg-gray-800 rounded-3xl p-8 shadow-2xl shadow-purple-500/20">
                 <h1 className="text-4xl font-bold text-center mb-2 text-purple-400">
                     🎮 Project Scope Management Elimination
                 </h1>
@@ -125,7 +125,7 @@ ${
                 {/* WINNER */}
 
                 {winner && (
-                    <div className="text-center mb-6 animate-bounce">
+                    <div className="text-center mb-1 animate-bounce">
                         <div className="text-2xl text-red-400 font-semibold">
                             {winner === "De Castro"
                                 ? "😆 Arayko Nuel"
