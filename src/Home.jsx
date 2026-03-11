@@ -79,7 +79,7 @@ export default function Home() {
             pool.splice(randomIndex, 1);
 
             setRoundEliminated((prev) => [...prev, removed]);
-        }, 200);
+        }, 50);
     }
 
     return (
