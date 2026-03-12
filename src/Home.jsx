@@ -129,7 +129,7 @@ ${
                         <div className="text-2xl text-red-400 font-semibold">
                             {winner === "De Castro"
                                 ? "😆 Arayko Nuel"
-                                : "😈 Malas mo boy:"}
+                                : "😈 Lucky Winner:"}
                         </div>
 
                         <div className="text-4xl font-bold text-green-400 mt-2">
