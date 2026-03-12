@@ -19,7 +19,7 @@ export default function Home() {
         "Rendal",
         "Pagkaliwagan",
         "De Padua",
-        "Labo-labo",
+        "Labo-labo pogi",
         "Maningat",
         "Vidal",
         "Bulan",
