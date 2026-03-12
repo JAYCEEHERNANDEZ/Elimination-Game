@@ -23,7 +23,7 @@ export default function Home() {
         "Maningat",
         "Vidal",
         "Bulan",
-        "Domingo",
+        "Do mingo",
         "Lopez",
         "Tadas",
         "Caraig",
